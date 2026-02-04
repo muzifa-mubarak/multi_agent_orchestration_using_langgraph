@@ -38,4 +38,14 @@ Supervisor Agent
 Supervisor → Final Response
 **
 ```
+## 📈 Future Enhancements
 
+Add memory persistence
+
+Add document writer agent
+
+Streamlit UI
+
+Multi-tool reasoning (search + scrape + summarize)
+
+Evaluation & logging
