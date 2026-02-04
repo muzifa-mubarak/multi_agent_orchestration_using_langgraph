@@ -6,11 +6,17 @@ This project demonstrates agent orchestration, ReAct reasoning, tool calling, an
 ## 🚀 Key Features
 
 🤖 Supervisor-based agent orchestration
+
 🔍 Web research using Tavily Search
+
 🧩 ReAct agents with tool calling
+
 🧠 Google Gemini LLM integration
+
 💬 Message-based state management
+
 🔁 Iterative reasoning with recursion limits
+
 🛠️ Extensible tool architecture (Python REPL, Web Search, etc.)
 
 
