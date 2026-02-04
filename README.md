@@ -19,4 +19,23 @@ This project demonstrates agent orchestration, ReAct reasoning, tool calling, an
 
 🛠️ Extensible tool architecture (Python REPL, Web Search, etc.)
 
+## 🏗️ System Architecture
+```
+**User Query
+    ↓
+Supervisor Agent
+    ↓
+ ┌──────────────┐
+ │ Research     │
+ │ Agent        │
+ └──────────────┘
+        ↓
+ ┌──────────────┐
+ │ Search Agent │
+ │ (Tavily)     │
+ └──────────────┘
+        ↓
+Supervisor → Final Response
+**
+```
 
